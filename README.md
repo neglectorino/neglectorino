@@ -21,6 +21,7 @@ vim, tmux, netcat
 microsoft bob
 jack daniels
 networks, sockets, modems, routers
+double rainbows and other things that make me cry
 
 things i find of interest atm, dll objects, specifically their tokens, sockets, signing certs, etc but next week it might
 be port numbers and if they knoew things
